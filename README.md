@@ -20,7 +20,7 @@ _Quick & dirty mobile notes—built in a week to prove I can pick up JS, ramp a 
 
 ```bash
 git clone https://github.com/CodeWitchK/MentalChaosCatcher.git
-cd your-repo
+cd my-notes-app
 npm install          # or yarn install
 npm start            # launches Metro and shows a QR code
 ```
